@@ -1,5 +1,7 @@
+package ru.netology;
+
 public class FormDate {
-    public String name;
-    public String day;
-    public String month;
+    public int day;
+    public int month;
+    public int year;
 }
